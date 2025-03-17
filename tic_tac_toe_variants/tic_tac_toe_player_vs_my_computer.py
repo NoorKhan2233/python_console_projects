@@ -1,4 +1,4 @@
-# (Challenge Project: Tic-Tac-Toe with Player Against the Computer) Modify your script from the previous exercise so that the computer makes the moves for one of the play- ers. Also, allow the player to specify whether he or she wants to go first or second.
+# (Challenge Project: Tic-Tac-Toe with Player Against the Computer) Modify your script from the previous player_vs_player project so that the computer makes the moves for one of the play- ers. Also, allow the player to specify whether he or she wants to go first or second.
 
 import numpy as np
 import time
