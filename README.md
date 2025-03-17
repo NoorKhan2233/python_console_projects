@@ -70,6 +70,8 @@ tic_tac_toe_player_vs_my_computer.py	Player vs. Computer Tic-Tac-Toe.
 tic_tac_toe_my_computer_vs_chatgpt_computer.py	Computer vs. Computer Tic-Tac-Toe.
 🤝 Contributing
 Feel free to contribute to this project! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+### Remember 
+I have two solutions in tic_tac_toe_player_vs_player: one is the original, and the other is the improved version. Don't be confused by seeing both solutions. I have provided both for transparency. You can use either of them.
 ## 📝 Note
 
 ### **Difference Between My Computer and ChatGPT Computer Algorithms**
