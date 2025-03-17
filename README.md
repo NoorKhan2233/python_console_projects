@@ -90,4 +90,4 @@ The main difference lies in the **decision-making process**:
 - **ChatGPT Computer** relies on **fixed rules**, which makes it predictable but less flexible.
 
 ## ⚠️ Disclaimer
-chatgpt is not wrtite all the code , but its just make some changes in my original code (in chatgpt computer code) rest of the code is purly authrised by me.
+ChatGPT did not write all the code; it only made some changes to my original code (in the ChatGPT computer code). The rest of the code is purely authored by me.
